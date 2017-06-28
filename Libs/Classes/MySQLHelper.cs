@@ -1,5 +1,5 @@
 ﻿/* C# MySQL连接助手
- * Version：1.0
+ * Version：1.1
  * ex2tron 2017年5月31日
  * http://ex2tron.lofter.com
  */
@@ -98,6 +98,7 @@ namespace Ex2tronLibs.Helper
                 {
                     result.Add(dataReader.GetString(keyword));
                 }
+				dataReader.Close();
             }
             catch (Exception ex)
             {

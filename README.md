@@ -2,17 +2,17 @@
 
 Daily Libs and Samples
 Samples:
----OpenCV
+OpenCV
 Image process samples using OpenCV.
 
 Scripts:
----Python
+Python
 My automation tasks written with Python.
 
 Libs:
----Algorithm
+Algorithm
 Basic algorithms.
----Classes
+Classes
 Some helper classes.
 
 More: http://ex2tron.lofter.com 
