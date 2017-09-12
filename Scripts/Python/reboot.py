@@ -4,6 +4,6 @@
 
 import os
 
-answer=input('Are you sure?(y/n)')
-if answer=='y':
-    os.system('shutdown -R -T 0')
+# answer=input('Are you sure?(y/n)')
+# if answer=='y':
+os.system('shutdown -R -T 0')

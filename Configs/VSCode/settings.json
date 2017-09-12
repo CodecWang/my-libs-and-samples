@@ -13,6 +13,11 @@
     "workbench.activityBar.visible": true,
     "window.menuBarVisibility": "toggle",
     "workbench.statusBar.visible": true,
-    "workbench.colorTheme": "Quiet Light",
-    "workbench.iconTheme": "vscode-great-icons"
+    "workbench.colorTheme": "Solarized Light",
+    "workbench.iconTheme": "vscode-great-icons",
+    "editor.fontFamily": "Droid Sans Mono,Consolas,微软雅黑",
+    "editor.fontSize":14,
+    "editor.lineHeight":25,
+    "editor.minimap.enabled": true,
+    "php.validate.executablePath": "D://wamp64//bin//php//php5.6.25//php.exe"
 }
