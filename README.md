@@ -34,4 +34,4 @@
 - #### [Python](https://github.com/ex2tron/MyLibsAndSamples/tree/master/Scripts/Python)
 
 [我的网站：](http://ex2tron.top)
-![blog_qrcode](http://pic.ex2tron.xin/blog_qrcode.png)
+![blog_qrcode](.\blog_qrcode.png)
