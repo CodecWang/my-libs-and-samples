@@ -1,7 +1,7 @@
 # 列出剪贴板路径下的所有文件名和文件夹名
 # 命令行参数：后缀名，如.exe，只会列出.exe的所有文件
 # ex2tron 2017年5月31日
-# http://ex2tron.lofter.com
+# http://ex2tron.top
 
 import os
 import sys

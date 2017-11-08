@@ -1,3 +1,8 @@
+# 提取Windows聚焦图片到桌面
+# Python版本：3
+# ex2tron 2017年11月3日
+# http://ex2tron.top
+
 import os
 import winreg
 import shutil
