@@ -1,8 +1,8 @@
 # MyLibsAndSamples
 
-我平常收集和编写的常用配置文件、算法、代码示例等等！
+我平常收集和编写的常用配置文件、算法和代码示例等等！
 
-> 欢迎访问我的网站：[ex2tron.top](http://ex2tron.top)
+> 欢迎访问我的博客：[ex2tron.top](http://ex2tron.top)
 
 ## 1. Configs配置文件
 
@@ -27,11 +27,15 @@
 ## 3. Samples代码示例
 
 - #### [C#](https://github.com/ex2tron/MyLibsAndSamples/tree/master/Samples/C%23)
+
 - #### [OpenCV](https://github.com/ex2tron/MyLibsAndSamples/tree/master/Samples/OpenCV)
+
+- #### [Python-CV2](Samples/Python-CV2/)
 
 ### 4. Scripts实用脚本
 
-- #### [Python](https://github.com/ex2tron/MyLibsAndSamples/tree/master/Scripts/Python)
+- #### [Python](Scripts/Python/)
 
-[我的网站：](http://ex2tron.top)
-![blog_qrcode](.\blog_qrcode.png)
+[我的博客：](http://ex2tron.top)
+
+![blog_qrcode](images/blog_qrcode.png)
