@@ -3,6 +3,7 @@
 # Python版本：3.6.3
 # ex2tron 2017年11月18日
 # http://ex2tron.top
+# 官方文档：http://pymysql.readthedocs.io/en/latest/
 
 #%%
 import pymysql
