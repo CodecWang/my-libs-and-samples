@@ -1,7 +1,5 @@
 # ex2tron's blog:
 # http://ex2tron.wang
-
-
 # 任务描述：
 # 批量在某一文件夹下所有文本类文件的开头加一句话
 
