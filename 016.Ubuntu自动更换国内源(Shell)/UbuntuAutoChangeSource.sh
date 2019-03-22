@@ -11,8 +11,14 @@ echo "http://ex2tron.wang/python-ubuntu-nodejs-change-sources/"
 
 # 1.确定系统版本
 uVersion=$(lsb_release -a |grep Release |awk -F : '{print $2}' |sed 's/^[ \t]*//g')
+echo "检测到您的Ubuntu系统版本为：$uVersion"
 
-read -s -n1 -p "检测到您的Ubuntu系统版本为：$uVersion，是否继续？(Y/N) " choice
+if [ $uVersion != "14.04" ] && [ $uVersion != "16.04" ] && [ $uVersion != "18.04" ];then
+    echo "暂时只支持14.04|16.04|18.04，Good Bye."
+    exit
+fi
+
+read -s -n1 -p "是否继续？(Y/N) " choice
 
 if [ $choice != "y" ] && [ $choice != 'Y' ];then
     echo
