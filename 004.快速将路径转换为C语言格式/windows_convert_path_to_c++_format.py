@@ -1,6 +1,5 @@
-# ex2tron's blog:
-# http://ex2tron.wang
-# 任务描述：
+# http://codec.wang
+# 功能描述：
 # 适用于Windows系统，将剪贴板中的路径快速转换成C语言识别的格式（斜杠转换），并且复制到剪贴板
 
 

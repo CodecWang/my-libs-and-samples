@@ -1,6 +1,5 @@
-# ex2tron's blog:
-# http://ex2tron.wang
-# 任务描述：
+# http://codec.wang
+# 功能描述：
 # 根据参数或者剪贴板内容中的关键字，打开浏览器并快速搜索百度百科
 
 

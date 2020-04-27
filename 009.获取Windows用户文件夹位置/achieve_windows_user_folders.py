@@ -1,6 +1,5 @@
-# ex2tron's blog:
-# http://ex2tron.wang
-# 任务描述：
+# http://codec.wang
+# 功能描述：
 # 打印出当前用户的常用目录，如图片、视频、音乐、文档、桌面、下载等
 
 

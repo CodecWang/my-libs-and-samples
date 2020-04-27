@@ -1,6 +1,5 @@
-# ex2tron's blog:
-# http://ex2tron.wang
-# 任务描述：
+# http://codec.wang
+# 功能描述：
 # 根据剪贴板或命令行参数的邮件地址快速打开邮件应用
 
 

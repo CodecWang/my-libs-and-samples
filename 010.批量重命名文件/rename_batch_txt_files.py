@@ -1,6 +1,5 @@
-# ex2tron's blog:
-# http://ex2tron.wang
-# 任务描述：
+# http://codec.wang
+# 功能描述：
 # 将dir1下面的所有txt重命名到dir2
 # 重命名规则：1.txt~50.txt更改为200.txt~249.txt，不要删除原有的文件
 

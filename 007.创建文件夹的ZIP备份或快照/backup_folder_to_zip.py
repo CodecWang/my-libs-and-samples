@@ -1,6 +1,5 @@
-# ex2tron's blog:
-# http://ex2tron.wang
-# 任务描述：
+# http://codec.wang
+# 功能描述：
 # 将整个文件夹备份成一个zip文件，zip文件名每次都随时间变换，如backup 2018-10-15.zip/backup 2018-10-16.zip
 # 文件夹路径从剪贴板中获取
 

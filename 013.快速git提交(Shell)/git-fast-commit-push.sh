@@ -1,8 +1,7 @@
 #!/bin/bash
 
-# ex2tron's blog:
-# http://ex2tron.wang 
-# 任务描述：输入备注，快速git提交
+# http://codec.wang 
+# 功能描述：输入备注，快速git提交
 
 echo "输入你的提交信息：" 
 read commit_info

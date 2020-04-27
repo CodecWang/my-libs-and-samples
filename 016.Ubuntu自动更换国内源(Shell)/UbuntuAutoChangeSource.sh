@@ -1,12 +1,11 @@
 #!/bin/bash
 
-# ex2tron's blog:
-# http://ex2tron.wang 
-# 任务描述：Ubuntu自动更换国内的源
+# http://codec.wang 
+# 功能描述：Ubuntu自动更换国内的源
 # 2019年3月21日 23:06
 
 echo "脚本仅供学习交流，后续更新请关注原博客："
-echo "http://ex2tron.wang/python-ubuntu-nodejs-change-sources/"
+echo "http://codec.wang/python-ubuntu-nodejs-change-sources/"
 
 
 # 1.确定系统版本
